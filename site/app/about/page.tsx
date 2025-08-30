@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='prose dark:prose-invert max-w-none'><h1>About</h1><p>KwondryPZL brings you logic-first Sudoku designed for clean printability and daily play.</p><p>We auto-generate unique, single-solution puzzles every day and publish them here.</p></div>)}

@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='space-y-6'><h1 className='text-3xl font-bold'>Downloads</h1><p>Grab printable bundles or visit our Etsy store for themed packs.</p><ul className='list-disc pl-6'><li><a className='underline' href='https://kwondry.etsy.com'>Kwondry on Etsy</a></li></ul></div>)}
